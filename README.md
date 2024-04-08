@@ -1,4 +1,6 @@
-# Tracking-and-Evasion-using-Co-Training-with-Context-Knowledge
+# Tracking and Evasion using Co-Training with Context Knowledge
+
+Abstract of my Master's thesis submitted to the Faculty of Electrical Engineering and Information Technology, RWTH Aachen University.
 
 ## Abstract
 
